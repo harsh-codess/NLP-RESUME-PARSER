@@ -21,7 +21,7 @@ Pandas
 
 PyPDF2 / docx
 
-Flask (if web interface is included
+Flask (if web interface is included)
 
 📦 Use Cases:
 HR Automation Tools
