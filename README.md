@@ -1,5 +1,5 @@
 🧠 GitHub Resume Parser
-A powerful Python-based Resume Parser that extracts key information from resumes using Natural Language Processing (NLP). Built to automate resume screening, making recruitment faster and smarter
+A powerful Python-based Resume Parser that extracts key information from resumes using Natural Language Processing (NLP). Built to automate resume screening, making recruitment faster and smarter.
 
 🚀 Features:
 Extracts Name, Email, Phone, Skills, Education, Experience, and more
